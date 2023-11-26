@@ -1,9 +1,9 @@
 import app from './app';
 import config from './config';
-import { databaseConecting } from './config/database.config';
+import { databaseConnecting } from './config/databaseConnecting';
 
 
-databaseConecting();
+databaseConnecting();
 
 app.listen(config.PORT, () => {
   console.log(
