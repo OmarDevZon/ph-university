@@ -3,11 +3,11 @@
 1. Clone the repository:
 
    ```bash
-   git clone 
+   git clone  
    ```
 
    ```bash
-   cd 
+   cd server
    ```
 
 instal node modules
